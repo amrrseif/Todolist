@@ -1,8 +1,12 @@
-<
 {
-"item":[
-"id": 1,
-"name":coco
-]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
 >
